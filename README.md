@@ -16,6 +16,11 @@
 <h2 align="center"> VIDEO TUTORIAL </h2>
 <p align="center">
   <a href="https://youtu.be/ZkeJu8rPrj0">
-    <img src="https://img.youtube.com/vi/ZkeJu8rPrj0/maxresdefault.jpg" alt="Video Tutorial" style="width:100%; max-width:800px; border-radius: 10px;"/>
+    <img src="ZkeJu8rPrj0-SD.jpg" alt="Video Tutorial" style="width:100%; max-width:350px; border-radius: 10px;"/>
   </a>
 </p>
+
+
+# Screenshot
+
+ <img src="Screenshot.png" alt="Video Tutorial" style="width:100%; max-width:800px; border-radius: 30px;"/>
