@@ -15,7 +15,7 @@
 
 <h2 align="center"> VIDEO TUTORIAL </h2>
 <p align="center">
-  <a href="https://youtu.be/HRrkMxsT3xY">
-    <img src="https://img.youtube.com/vi/HRrkMxsT3xY/maxresdefault.jpg" alt="Video Tutorial" style="width:100%; max-width:800px; border-radius: 10px;"/>
+  <a href="https://youtu.be/ZkeJu8rPrj0">
+    <img src="https://img.youtube.com/vi/ZkeJu8rPrj0/maxresdefault.jpg" alt="Video Tutorial" style="width:100%; max-width:800px; border-radius: 10px;"/>
   </a>
 </p>
